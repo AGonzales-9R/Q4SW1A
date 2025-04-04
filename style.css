@@ -1,0 +1,43 @@
+* {
+
+}
+
+body {
+	text-align: center;
+	font-family: "Fira Sans", sans-serif;
+  	font-weight: 500;
+  	font-style: normal;
+	background-size: cover;
+	background-image: url(https://images.vexels.com/media/users/3/308810/raw/158ea52ebf2dd9aca82332d0d3e4814a-sandwiches-pattern-design.jpg);
+}
+
+a {
+	color: #dc3545;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	padding: 5px;
+    background-color: #eccc8f;
+    color: black;
+    text-align: center;
+}
+
+.container {
+	background-color: #eccc8f;
+}
+
+.col-md-6 {
+	padding: 30px;
+	border-style: solid;
+	border-color: black;
+	background-color: #f4f1eb;
+}
+
+.buttons {
+	text-align: center;
+	font-size: 30px;
+}
